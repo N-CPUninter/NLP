@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
   +
-  <a href="https://scikit-learn.org" title="SKLearn"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg]" alt="SKLearn" height="21px"></a>
+  <a href="https://scikit-learn.org" title="SKLearn"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SKLearn" height="21px"></a>
 </p>
 
 <!-- Escudos de licença e contador de contribuidores -->
