@@ -1,18 +1,16 @@
 <!-- Área do Banner -->
 <div align="center" style="background-color: white; max-width: 70%;">
-  <img alt="BANNER com título: Da Análise ao Código" title="Banner_ADS_v2" src=".readme_docs/Banner_Github_NCPU.png" width="100%" />
+  <img alt="BANNER com título: NLP" title="Banner" src=".readme_docs/Banner_Github_NCPU.png" width="100%" />
 </div>
 
 <!-- Título e breve descrição do repositório -->
-<div align="center"><h1>MODELO</h1><p><b>Descrição do seu repositório. Altere abaixo os ícones das tecnologias usadas:</b></p></div>
+<div align="center"><h1>NLP</h1><p><b>Repositório de materiais para o trabalho da matéria de Natural Language Processing. Tecnologias usadas:</b></p></div>
 
 <!-- Ícones ou links das tecnologias usadas -->
 <p align="center">
-  <a href="https://www.uml.org/" title="UML"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML" height="21px"></a>
-  +
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
   +
-  <a href="https://plantuml.com/" title="PlantUML">PlantUML</a>
+  <a href="https://scikit-learn.org" title="SKLearn"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg]" alt="SKLearn" height="21px"></a>
 </p>
 
 <!-- Escudos de licença e contador de contribuidores -->
