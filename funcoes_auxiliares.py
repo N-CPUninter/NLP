@@ -78,7 +78,7 @@ def gerar_nuvem_palavras(arquivo_mascara="cloud_mask.png",
     return nuvem_palavras, len(dicionario_tokens_e_frequencia)
 
 def main():
-    # Dados de exemplo
+    # Exemplo com uma frase completa
     texto = "Exemplo: Gerar uma nuvem de palavras usando texto completo"
     # Vetorização e contagem de frequência simples de bigramas:
     vectorizer = CountVectorizer(ngram_range=(2, 2))
