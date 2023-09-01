@@ -1,0 +1,3 @@
+[submodule "Fake.br-Corpus"]
+	path = Fake.br-Corpus
+	url = https://github.com/roneysco/Fake.br-Corpus.git

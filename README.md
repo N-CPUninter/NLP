@@ -1,5 +1,5 @@
 <!-- Área do Banner -->
-<div align="center" style="background-color: white; max-width: 70%;">
+<div align="center" style="background-color: white; max-width: 100%;">
   <img alt="BANNER com título: NLP" title="Banner" src=".readme_docs/Banner_Github_NCPU.png" width="100%" />
 </div>
 
@@ -26,39 +26,41 @@
 <!-- Descrição do repositório e demais dados -->
 ## Descrição
 
-Este repositório contém os arquivos de modelo para criação de repositórios padronizados N-CPU.
+Este repositório contém alguns arquivos para auxílio na realização do trabalho prático da matéria de NLP.
 
-Este modelo faz parte do N-CPU.
+Aqui você encontrará o arquivo dos dados e metadados em txt (`Fake.br-Corpus/full_texts/` e/ou `Fake.br-Corpus/size_normalized_texts/`), em csv (`Fake.br-Corpus/preprocessed/pre-processed.csv`) e um notebook python com os códigos necessário para realização do trabalho pelo Google Colab.
 
 ## Participantes
 
 | [<img src="https://avatars3.githubusercontent.com/u/60905310?s=460&v=4" width="75px;"/>](https://github.com/guipatriota) |
 | :------------------------------------------------------------------------------------------------------------------------: |
 
-
 | [Prof. Guilherme Patriota](https://github.com/guipatriota)
+
 
 ## Como usar este repositório
 
-Ao criar um novo repositório, selecione este repositório como modelo.
+### Método 1: Link direto para Google Colab com os arquivos deste repositório
 
-### Banner do arquivo README.md
+1. Você pode diretamente abrir no Colab este repositório pelo link clicando <h1 align="center">[aqui](https://colab.research.google.com/github/N-CPUninter/NLP/blob/main/trabalho_nlp.ipynb).</h1>
+2. Lembre-se de salvar uma cópia em seu Google Drive deste arquivo antes de começar, para que seu trabalho seja salvo automaticamente e você não corra o risco de perder alguma coisa já feita.
 
-Utilize o arquivo Banner_Github_NCPU.pptx da pasta `.readme_docs` para criar seu arquivo `.readme_docs/Banner_Github_NCPU.png`. Coloque o título do seu repositório como título e o nome de sua matéria como subtítulo do banner.
+### Método 2: Abrir repositório github pelo Google Colab
 
-Após alterar os dados, clique em Arquivo -> Exportar -> Alterar o tipo de arquivo -> Duplo clique em PNG.  Salve com o mesmo nome e extenção png (`Banner_Github_NCPU.png`).
+1. Abra o seu [Google Colab](https://colab.research.google.com/);
+2. Na janela de abertura de arquivo, clique em GitHub;
+3. Na barra de busca, substitua seu nome de usuário por `https://github.com/N-CPUninter/NLP` e clique em pesquisar (ícone de lupa);
+4. Clique sobre `trabalho_nlp.ipynb`;
+5. Rode o notebook no Google Colab para se certificar de que tudo está rodando corretamente e sem falhas;
+6. Altere os códigos nas partes da Questão 1 e 2 para realização do trabalho.
 
-Coloque o arquivo PNG na pasta `.readme_docs/` do seu repositório e exclua o arquivo `Banner_Github_NCPU.pptx`.
+### Método 3: Download e upload manual do arquivo .ipynb
 
-### Dados do arquivo REAMD.md
-```diff
-- Lembre-se de alterar os dados deste arquivo para condfizerem com os seus dados e de sua matéria/repositório!
-
-
-+ Mantenha os tópicos "Contribuições" e "Licença" ao final de seu arquivo README.md.
-```
-
-## Comandos de utilização
+1. Faça download do arquivo `trabalho_nlp.ipynb`;
+2. Abra o [Google Colab](https://colab.research.google.com/);
+3. Faça o upload do arquivo do trabalho para seu [Google Colab](https://colab.research.google.com/), na janela de abertura de arquivo;
+4. Rode o notebook no Google Colab para se certificar de que tudo está rodando corretamente e sem falhas;
+5. Altere os códigos nas partes da Questão 1 e 2 para realização do trabalho.
 
 ## Contribuições
 
